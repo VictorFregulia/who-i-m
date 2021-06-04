@@ -3,7 +3,7 @@
 
 <p> This was the code club's first challenge</p>
 
-<img src="./assets/capturar.png" alt= "resultado">
+<img src="./assets/capturar.PNG" alt= "resultado">
 
 ### Tweaks and improvements
 - [x] creation HTML- 
